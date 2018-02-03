@@ -10,3 +10,7 @@ http://www.fishbase.org/Country/CountryChecklist.php?showAll=yes&what=list&trpp=
 
 custom listview
 https://www.androidhive.info/2012/02/android-custom-listview-with-image-and-text/
+
+history:
+
+20180203: 已抓出每個id對應的html page, 需parsing出<img>之src
